@@ -1,0 +1,12 @@
+int totalAmonut = 0;
+var itemCount1 = 1;
+var business_name;
+var phone;
+var user_name;
+var address;
+var instruction;
+var typeoforder;
+var email;
+var product_name;
+var product_image;
+var product_price;
